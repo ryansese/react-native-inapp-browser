@@ -1,4 +1,7 @@
 # react-native-inapp-browser
+[![npm version](https://badge.fury.io/js/react-native-inapp-browser.svg)](https://badge.fury.io/js/react-native-inapp-browser)
+[![MIT](https://img.shields.io/dub/l/vibe-d.svg)]()
+
 A in-App browser for react native based apps using [TransitApp/SVWebViewController](https://github.com/TransitApp/SVWebViewController).
 
 Because there is some dependency problems, I cannot add [TransitApp/SVWebViewController](https://github.com/TransitApp/SVWebViewController) as a submodule.
