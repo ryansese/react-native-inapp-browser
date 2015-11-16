@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "00DEE37500E6C7998F4D113C875F3996AE26D5BE" : 0,
+    "492478FA2CE69FFD2ECD0FE005818EA5AF0F2A35" : 0,
+    "17EEA20FD3CBFFA01D68DB0DC46A5D5DDB0B0E74" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "73C93934-42A5-4D1A-B1DB-0BC0CBEFA225",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "00DEE37500E6C7998F4D113C875F3996AE26D5BE" : "RCTInAppBrowser\/SVWebViewController\/",
+    "492478FA2CE69FFD2ECD0FE005818EA5AF0F2A35" : "..\/..",
+    "17EEA20FD3CBFFA01D68DB0DC46A5D5DDB0B0E74" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCTInAppBrowser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RCTInAppBrowser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TransitApp\/SVWebViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00DEE37500E6C7998F4D113C875F3996AE26D5BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:DickyT\/react-native-inapp-browser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17EEA20FD3CBFFA01D68DB0DC46A5D5DDB0B0E74"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:DickyT\/LePinApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "492478FA2CE69FFD2ECD0FE005818EA5AF0F2A35"
+    }
+  ]
+}

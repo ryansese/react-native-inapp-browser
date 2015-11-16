@@ -1,0 +1,26 @@
+{
+  "name": "react-native-inapp-browser",
+  "version": "0.1.0",
+  "description": "A in-app browser for react native apps.",
+  "main": "index.ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DickyT/react-native-inapp-browser.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "ios",
+    "browser",
+    "sSVWebViewController"
+  ],
+  "author": "DickyT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DickyT/react-native-inapp-browser/issues"
+  },
+  "homepage": "https://github.com/DickyT/react-native-inapp-browser#readme"
+}
