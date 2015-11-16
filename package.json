@@ -1,6 +1,6 @@
 {
   "name": "react-native-inapp-browser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A in-app browser for react native apps.",
   "main": "index.ios.js",
   "scripts": {
